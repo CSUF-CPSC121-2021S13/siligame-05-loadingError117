@@ -1,0 +1,27 @@
+[
+ {
+ "directory" : "/home/loading_error117/cpsc121/siligame-05-loadingError117",
+ "command" : "clang++ -std=c++17 main.cc -o main",
+ "file" : "/home/loading_error117/cpsc121/siligame-05-loadingError117/main.cc"
+ },
+ {
+ "directory" : "/home/loading_error117/cpsc121/siligame-05-loadingError117",
+ "command" : "clang++ -std=c++17 player.cc -o main",
+ "file" : "/home/loading_error117/cpsc121/siligame-05-loadingError117/player.cc"
+ },
+ {
+ "directory" : "/home/loading_error117/cpsc121/siligame-05-loadingError117",
+ "command" : "clang++ -std=c++17 opponent.cc -o main",
+ "file" : "/home/loading_error117/cpsc121/siligame-05-loadingError117/opponent.cc"
+ },
+ {
+ "directory" : "/home/loading_error117/cpsc121/siligame-05-loadingError117",
+ "command" : "clang++ -std=c++17 game_element.cc -o main",
+ "file" : "/home/loading_error117/cpsc121/siligame-05-loadingError117/game_element.cc"
+ },
+ {
+ "directory" : "/home/loading_error117/cpsc121/siligame-05-loadingError117",
+ "command" : "clang++ -std=c++17 game.cc -o main",
+ "file" : "/home/loading_error117/cpsc121/siligame-05-loadingError117/game.cc"
+ },
+]
